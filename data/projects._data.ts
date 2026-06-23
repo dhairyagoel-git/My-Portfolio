@@ -31,7 +31,7 @@ export const projects_data: projects_data_type[] = [
     tags: ["React.js", "Node.js", "Express.js", "Monaco Editor"," Groq API"," OAuth"],
     description:
       "A sleek tool that combines AI code review, code saving, and in-browser execution all in one place. The AI feedback is sharp and explains issues clearly, while the save and run features keep your workflow seamless. A must-try for developers wanting faster, smarter coding sessions.",
-    github: "https://github.com/dhairyagoel-git/Smart-Parking-Management",
+    github: "https://github.com/dhairyagoel-git/LintMind",
     demo: "",
     link: LintMind, 
   },
