@@ -12,6 +12,7 @@ import SimonSaysGame from "../public/img/projects-preview/SimonSaysGame.png"
 import FitnessAppLandingPage from "../public/img/projects-preview/FitnessAppLandingPage.png"
 import FireGuard from "../public/img/projects-preview/FireGuard.png"
 import HomeListings from "../public/img/projects-preview/HomeListingSite.png"
+import LintMind from "../public/img/projects-preview/LintMind.png"
 import Home from "../pages";
 
 interface projects_data_type {
@@ -24,6 +25,16 @@ interface projects_data_type {
 }
 
 export const projects_data: projects_data_type[] = [
+
+  {
+    name: "LintMind- AI PoweredCode Reviewer",
+    tags: ["React.js", "Node.js", "Express.js", "Monaco Editor"," Groq API"," OAuth"],
+    description:
+      "A sleek tool that combines AI code review, code saving, and in-browser execution all in one place. The AI feedback is sharp and explains issues clearly, while the save and run features keep your workflow seamless. A must-try for developers wanting faster, smarter coding sessions.",
+    github: "https://github.com/dhairyagoel-git/Smart-Parking-Management",
+    demo: "",
+    link: LintMind, 
+  },
   {
     name: "MernAuth",
     tags: ["React.js", "Node.js", "Javascript", "Express.js"],
